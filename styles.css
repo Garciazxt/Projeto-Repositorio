@@ -10,7 +10,7 @@ body {
 
     font-family: 'Chakra Petch', sans-serif;
     color: var(#ffff);
-    background: linear-gradient(135deg, #faf9f900, #1a1a1a);
+     background: linear-gradient(135deg, #f7f9f7, #C92BFC);
 color: #ffff;
 
 }
@@ -61,4 +61,5 @@ p {
                     background: none;
                         color: #ffffff;
                             border: none;
+
                             }
